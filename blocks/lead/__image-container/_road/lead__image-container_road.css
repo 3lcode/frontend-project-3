@@ -1,0 +1,6 @@
+.lead__image-container_road {
+  position: absolute;
+  margin: 0 24px;
+  padding-top: 90px;
+  z-index: 1;
+}
